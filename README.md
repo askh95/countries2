@@ -1,3 +1,15 @@
+Вот сайт: https://countries2-three.vercel.app/
+
+Для того чтобы установить проект на свой компьютер локально, надо:
+
+```ssh
+git clone git@github.com:askh95/countries2.git
+
+npm i
+
+npm run dev
+```
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
